@@ -1,0 +1,15 @@
+.infos-bar {
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: #fff;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 18px 0;
+    text-align: left;
+    
+
+    a .button-primary {
+        text-align: center;
+    }
+}
